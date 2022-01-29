@@ -2,6 +2,8 @@
 
 Emacs is a general-purpose text editor built around a Lisp environment.
 
+# Screenshots
+
 # Links
 
 - Main site https://www.gnu.org/software/emacs/
