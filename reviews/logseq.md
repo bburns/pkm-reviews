@@ -28,7 +28,11 @@ Extended, free notes
 
 ## Pros
 
+- handles Markdown and Orgmode files
+
 ## Cons
+
+- editor is not very smooth yet
 
 # Scenarios
 
@@ -36,11 +40,20 @@ Extended, free notes
 
 > Organize your tasks and projects with built-in workflow commands like NOW/LATER/DONE, A/B/C priorities and repeated Scheduled/Deadlines.
 
-Also has a query language.
+eg ___
+
+Also has a query language, eg ___.
+
+see https://logseq.github.io/#/page/tasks%20%26%20todos
 
 ## Time Management
 
+Can track time spent on each task with ___.
+
 ## Note Taking
+
+Has a Journal tab and then regular pages. 
+
 
 ## Publishing
 
