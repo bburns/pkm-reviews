@@ -59,6 +59,10 @@
 
 (how to import/export)
 
+## Extending
+
+(how to extend, make plugins, etc)
+
 # Backlinks
 
 (list of links to short youtube tutorials, blog posts, etc)
