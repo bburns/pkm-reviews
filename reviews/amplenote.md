@@ -37,5 +37,11 @@ Has a nice text editor
 
 Need Pro mode to publish, but can't do during free trial. 
 
+## Import/Export
+
+Currently can import from Roam, Evernote, or Markdown files. 
+
+Can export all as Markdown files in a zipfile.
+
 # Backlinks
 
