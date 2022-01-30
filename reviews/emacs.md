@@ -10,13 +10,13 @@ Emacs is a general-purpose text editor built around a Lisp environment.
 
 # Links
 
-- Main site https://www.gnu.org/software/emacs/
-- Twitter https://twitter.com/emacs
+- Main site: https://www.gnu.org/software/emacs/
+- Twitter: https://twitter.com/emacs
 
 # Pricing
 
-- Free
-- GPL
+- All: Free
+- License: GPL
 
 # Review
 
@@ -33,7 +33,7 @@ Emacs is a general-purpose text editor built around a Lisp environment.
 
 ## Task Management
 
-Use org-mode to manage tasks
+Use org-mode to manage tasks. Convert 
 
 ## Time Management
 
@@ -43,11 +43,17 @@ Use org-mode to manage time spent on tasks
 
 Use org-mode for note taking and linking.
 
-or org-roam?
+Text files are the basic building blocks. Each can have an outline of headers, marked with '*', '**', etc.
+
+or org-roam? check it out
 
 ## Publishing
 
-Use org-mode to publish your notes as a website or blog?
+Use org-mode to publish your notes as a website or blog.
+
+(how do nowadays?)
+
+## Import/Export
 
 # Backlinks
 
