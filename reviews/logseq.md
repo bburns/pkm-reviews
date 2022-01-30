@@ -1,6 +1,6 @@
 # About
 
-Extended, free notes
+Logseq is free and has note-taking, task, and time-management features
 
 # Slogan
 
