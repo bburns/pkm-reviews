@@ -2,6 +2,10 @@
 
 Emacs is a general-purpose text editor built around a Lisp environment.
 
+# Slogan
+
+> An extensible, customizable, free/libre text editor - and more.
+
 # Screenshots
 
 <!-- get better ones, upload somewhere -->
