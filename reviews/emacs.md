@@ -65,7 +65,8 @@ more notes
 
 The tab key cycles the folded state of the current header and entire document.
 
-or org-roam? check it out
+org-roam extends org-mode text files with a database - https://www.orgroam.com/
+
 
 ## Publishing
 
