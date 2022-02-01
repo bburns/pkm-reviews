@@ -48,6 +48,10 @@ Currently can import from Roam, Evernote, or Markdown files.
 
 Can export all as Markdown files in a zipfile.
 
+# Testimonials
+
+> Amplenote is the best note-taking app I've found for transforming ideas into actions... No other note-taking app does to-do lists so well. - Shu Omi, Youtube Productivity Expert with 15,000+ subscribers
+
 # Backlinks
 
 - 17min intro https://www.youtube.com/watch?v=wspUsA32Z_8
