@@ -50,4 +50,5 @@ Can export all as Markdown files in a zipfile.
 
 # Backlinks
 
+- 17min intro https://www.youtube.com/watch?v=wspUsA32Z_8
 - 10min overview https://www.youtube.com/watch?v=o8a3F5cbpdc&ab_channel=KeepProductive
