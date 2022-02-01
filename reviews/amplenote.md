@@ -8,6 +8,10 @@ Amplenote combines note-taking with goal and task management.
 
 # Screenshots
 
+<!-- copy somewhere and reference here -->
+
+![](https://assets.amplenote.com/assets/root/funnel/funnel-notes@2x-6b722df217e7a3bfe30add383b8057e9bcaab904e08ba8d9bf92e4da33179479.png)
+
 # Properties
 
 - Site: https://www.amplenote.com/
