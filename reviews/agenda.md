@@ -33,7 +33,8 @@ Notes, tasks, scheduling, for Mac/iOS
 
 ## Cons
 
-<!-- list of cons -->
+- only for Mac!
+- need Premium to export notes in Markdown format, but is only $35/yr
 
 # Scenarios
 
