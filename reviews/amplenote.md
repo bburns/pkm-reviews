@@ -8,10 +8,11 @@ Amplenote combines note-taking with goal and task management.
 
 # Screenshots
 
-# Links
+# Properties
 
-- Main site: https://www.amplenote.com/
+- Site: https://www.amplenote.com/
 - Twitter: https://twitter.com/amplenote
+- Platforms: Web, Android, iOS
 
 # Pricing
 
@@ -45,3 +46,4 @@ Can export all as Markdown files in a zipfile.
 
 # Backlinks
 
+- 10min overview https://www.youtube.com/watch?v=o8a3F5cbpdc&ab_channel=KeepProductive
