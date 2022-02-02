@@ -26,6 +26,15 @@ Amplenote combines note-taking with goal and task management.
 
 # Review
 
+## Pros
+
+- nice idea for task management with autosorting feature
+
+## Cons
+
+- still more complex than i'm looking for
+- my laptop screen is kind of small for it
+
 # Scenarios
 
 ## Task Management
