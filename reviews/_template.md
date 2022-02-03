@@ -1,10 +1,12 @@
+<!-- use alt+/ to comment/uncomment lines below -->
+
 # About
 
 <!-- brief description -->
 
 # Slogan
 
-<!-- > slogan from website, if available -->
+<!-- > slogans from website, if available -->
 
 # Screenshots
 
@@ -12,7 +14,7 @@
 
 <!-- ![](https://foo.com/screenshot.png) -->
 
-# Links
+# Properties
 
 <!-- - Main site: (site url) -->
 <!-- - Twitter: (twitter account) -->
