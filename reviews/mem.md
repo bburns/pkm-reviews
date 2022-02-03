@@ -8,6 +8,8 @@
 
 > Write, search, and share at the speed of thought.
 
+> As simple as Apple Notes. As powerful as Google Search for your mind.
+
 # Screenshots
 
 <!-- upload somewhere and reference here -->
@@ -32,11 +34,12 @@
 
 ## Pros
 
-<!-- list of pros -->
+- very snappy ui, supposed to be fast/easy to add new items
+- has an inbox
 
 ## Cons
 
-<!-- list of cons -->
+- not as nice as having everything in markdown, as with obsidian/logseq
 
 # Scenarios
 
