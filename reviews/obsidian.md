@@ -1,16 +1,18 @@
 # About
 
-<!-- brief description -->
+Stores all data in local Markdown files. From team that built dynalist.io. 
 
 # Slogan
 
-<!-- > slogan from website, if available -->
+> A second brain, for you, forever.
+
+> Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
 
 # Screenshots
 
 <!-- upload somewhere and reference here -->
 
-![]()
+<!-- ![]() -->
 
 # Properties
 
