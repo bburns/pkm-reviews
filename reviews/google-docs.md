@@ -14,10 +14,11 @@ Word processor with nice checklist outliner.
 
 ![](https://lh3.googleusercontent.com/4BcOYDs5e95hVbpGR0kDVKXRVAldcyYoHrM3q7Ashp2JrVARBVgglUwS_xPaIg_yuqWZJEpwlIjHUcQ63i9SPZBMq5E-t3A9EH5VX1y_mcRY_IbhYbg=s0)
 
-# Properties
+# Links
 
 - Main site: https://www.google.com/docs/about/
 - Twitter: https://twitter.com/googledocs
+- YouTube: https://www.youtube.com/channel/UCBmwzQnSoj9b6HzNmFrg_yw
 
 # Pricing
 
